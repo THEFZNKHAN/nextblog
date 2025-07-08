@@ -15,8 +15,8 @@ export const metadata = {
         description:
             "A beautiful, modern blog platform built with Next.js and MongoDB",
         type: "website",
-        // url: "",
-        // image: "",
+        url: "https://nextblog-one-lilac.vercel.app/",
+        image: "https://nextblog-one-lilac.vercel.app/logo.png",
     },
 };
 
